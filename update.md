@@ -35,7 +35,7 @@ npm update npm -g
 
 最后使用node -v 和 npm -v 查看版本是否已经升级。
 
-<h4>2.在Windows系统下：<h4>
+<h4>2.在Windows系统下：</h4>
 
 查看版本的命令和Ubuntu下一样。
 不同的是Windows下不能使用“n”包管理器来对NodeJS进行管理，在这里我们使用一种叫“gnvm”的工具来管理（相关链接：https://github.com/Kenshin/gnvm）
